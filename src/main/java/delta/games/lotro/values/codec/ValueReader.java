@@ -26,7 +26,7 @@ public class ValueReader
     {
       return null;
     }
-    if (value.length()==0)
+    if (value.isEmpty())
     {
       return null;
     }
